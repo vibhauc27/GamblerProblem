@@ -23,22 +23,37 @@ namespace GamblerProblem
             
             Random random = new Random();
             int bet = random.Next(2);
-                     
-                if (bet == 1)
-                {
-                    j += 1;
-                    Console.WriteLine("Won");
-                    Console.WriteLine("Total Amount =" + j);
+            int play = random.Next(0, 2);
 
-                }
-                else
-                {
-                    j -= 1;
-                    Console.WriteLine("Loose");
-                    Console.WriteLine("Total Amount =" + j);
+            int InitialStake = (int)random.NextInt64();
+            int maxStake = InitialStake + (50 % InitialStake);
+            int minStake = InitialStake - (50 % InitialStake);
 
+            while (InitialStake >= minStake && InitialStake <= maxStake)
+            {
+                
+
+               
+                switch (play)
+                {
+
+                    case 1:
+                        InitialStake += bet;
+                        Console.WriteLine("you win 1$");
+                        Console.WriteLine("the stake after winning" + InitialStake);
+                        break;
+                    case 0:
+                        InitialStake -= bet;
+                        Console.WriteLine("you loose 1$");
+                        Console.WriteLine("the stake after winning" + InitialStake);
+                        break;
                 }
+                Console.WriteLine("Stake has reached to" + InitialStake);
+
             }
+
+               
         }
     }
+}
 
