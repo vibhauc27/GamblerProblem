@@ -1,0 +1,15 @@
+C:\Users\vindy\source\repos\GamblerProblem\GamblerProblem\bin\Debug\net6.0\GamblerProblem.exe
+C:\Users\vindy\source\repos\GamblerProblem\GamblerProblem\bin\Debug\net6.0\GamblerProblem.deps.json
+C:\Users\vindy\source\repos\GamblerProblem\GamblerProblem\bin\Debug\net6.0\GamblerProblem.runtimeconfig.json
+C:\Users\vindy\source\repos\GamblerProblem\GamblerProblem\bin\Debug\net6.0\GamblerProblem.dll
+C:\Users\vindy\source\repos\GamblerProblem\GamblerProblem\bin\Debug\net6.0\ref\GamblerProblem.dll
+C:\Users\vindy\source\repos\GamblerProblem\GamblerProblem\bin\Debug\net6.0\GamblerProblem.pdb
+C:\Users\vindy\source\repos\GamblerProblem\GamblerProblem\obj\Debug\net6.0\GamblerProblem.csproj.AssemblyReference.cache
+C:\Users\vindy\source\repos\GamblerProblem\GamblerProblem\obj\Debug\net6.0\GamblerProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vindy\source\repos\GamblerProblem\GamblerProblem\obj\Debug\net6.0\GamblerProblem.AssemblyInfoInputs.cache
+C:\Users\vindy\source\repos\GamblerProblem\GamblerProblem\obj\Debug\net6.0\GamblerProblem.AssemblyInfo.cs
+C:\Users\vindy\source\repos\GamblerProblem\GamblerProblem\obj\Debug\net6.0\GamblerProblem.csproj.CoreCompileInputs.cache
+C:\Users\vindy\source\repos\GamblerProblem\GamblerProblem\obj\Debug\net6.0\GamblerProblem.dll
+C:\Users\vindy\source\repos\GamblerProblem\GamblerProblem\obj\Debug\net6.0\ref\GamblerProblem.dll
+C:\Users\vindy\source\repos\GamblerProblem\GamblerProblem\obj\Debug\net6.0\GamblerProblem.pdb
+C:\Users\vindy\source\repos\GamblerProblem\GamblerProblem\obj\Debug\net6.0\GamblerProblem.genruntimeconfig.cache
